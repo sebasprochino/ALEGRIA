@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ALEGRIA_OS",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
